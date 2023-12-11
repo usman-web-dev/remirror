@@ -37,7 +37,7 @@
   "devDependencies": {
     "prosemirror-model": "^1.19.3",
     "prosemirror-state": "^1.4.3",
-    "prosemirror-view": "^1.31.7"
+    "prosemirror-view": "^1.32.6"
   },
   "peerDependencies": {
     "prosemirror-model": "^1.19.0",

@@ -38,19 +38,19 @@
     "dist-types"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.22.3",
+    "@babel/runtime": "^7.23.5",
     "@remirror/core": "^2.0.19",
     "@remirror/messages": "^2.0.6",
     "prosemirror-model": "^1.19.3",
     "prosemirror-state": "^1.4.3",
-    "prosemirror-view": "^1.31.7",
+    "prosemirror-view": "^1.32.6",
     "y-prosemirror": "^1.0.19",
-    "y-protocols": "^1.0.5"
+    "y-protocols": "^1.0.6"
   },
   "devDependencies": {
     "@remirror/pm": "^2.0.8",
-    "y-webrtc": "^10.2.5",
-    "yjs": "^13.6.1"
+    "y-webrtc": "^10.2.6",
+    "yjs": "^13.6.10"
   },
   "peerDependencies": {
     "@remirror/pm": "^2.0.8",
